@@ -2,3 +2,8 @@ h1 {
     text-align: center;
     color: green;
 }
+
+.house_pic {
+    width: 300px;
+    padding: 3%;
+}
