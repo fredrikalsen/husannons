@@ -71,3 +71,7 @@ p {
     background-color: #04AA6D;
     color: white;
   }
+
+  @media(max-width:300px){
+    body{background-color: #04AA6D;}
+  }
